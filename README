@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2238
+
+This script allows you to auto-complete quoted strings ("..." and '...') in the same way that you can complete keywords or filenames.
+
+If you have any trouble installing or using, email me toomuchphp-vim at yahoo.com.
